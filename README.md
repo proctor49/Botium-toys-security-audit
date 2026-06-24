@@ -1,4 +1,13 @@
-# 🔐 Botium Toys — Internal Security Audit
+# Botium Toys — Internal Security Audit
+Internal security audit and compliance assessment - NIST CSF framework, PCI DSS & amp; GDPR gap analysis.
+
+
+> **Portfolio Project** | Google Cybersecurity Certificate | Junior Security Analyst
+
+[![Security Audit](https://img.shields.io/badge/Type-Security%20Audit-blue)](https://github.com)
+[![Framework](https://img.shields.io/badge/Framework-NIST%20CSF-green)](https://www.nist.gov/cyberframework)
+[![Risk Score](https://img.shields.io/badge/Risk%20Score-8%2F10%20(High)-red)](https://github.com)
+[![Status](https://img.shields.io/badge/Status-Completed-brightgreen)](https://github.com)
 
 > **Portfolio Project** | Google Cybersecurity Certificate  
 > **Analyst:** Junior Security Analyst  
@@ -22,8 +31,11 @@ The audit evaluates Botium Toys' security posture across administrative, technic
 botium-toys-security-audit/
 │
 ├── README.md                          ← You are here
-│
+|
+├── QUICKVIEW.md                       ← Quick review of the whole project in one page without traveling for quick glance 
+|
 ├── docs/
+|   ├── QUICKVIEW.md                   ← Quick review of the whole project in one page without traveling for quick glance
 │   ├── executive-summary.md           ← High-level findings for leadership
 │   ├── audit-report.md                ← Full internal audit report
 │   └── risk-assessment.md             ← Detailed risk assessment findings
@@ -71,7 +83,7 @@ botium-toys-security-audit/
 | Document | Description |
 |----------|-------------|
 | [Executive Summary](docs/executive-summary.md) | Brief overview of findings for non-technical stakeholders |
-| [Full Audit Report](docs/audit-report.md) | Detailed audit findings, analysis, and recommendations |
+| [Audit Report](docs/audit-report.md) | A full report of the Audit of the project |
 | [Risk Assessment](docs/risk-assessment.md) | Risk ratings, threat scenarios, and impact analysis |
 | [Controls Assessment Checklist](checklists/controls-assessment.md) | Yes/No checklist of administrative, technical, and physical controls |
 | [Compliance Checklist](checklists/compliance-checklist.md) | PCI DSS, GDPR, and SOC compliance status |
@@ -106,3 +118,14 @@ This project was completed as part of the **[Google Cybersecurity Certificate](h
 ---
 
 *This is a fictional scenario used for educational purposes. Botium Toys is not a real company.*
+
+<div align="center">
+
+**Connect with me:**
+[LinkedIn] www.linkedin.com/in/jillzprocta49sec | [GitHub]https://github.com/proctor49
+
+*Junior Cybersecurity Analyst | Google Cybersecurity Certificate Candidate*
+
+</div>
+
+

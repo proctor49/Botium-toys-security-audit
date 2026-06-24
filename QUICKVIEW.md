@@ -10,8 +10,40 @@ Internal security audit and compliance assessment - NIST CSF framework, PCI DSS 
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen)](https://github.com)
 
 ---
+## 📋 Project Overview
 
-##  Table of Contents
+This repository documents a comprehensive internal security audit conducted for **Botium Toys**, a fictional small U.S. toy company with a growing online presence. The audit was performed as part of the **Google Cybersecurity Certificate** program and simulates a real-world security assessment scenario.
+
+The audit evaluates Botium Toys' security posture across administrative, technical, and physical control domains, assesses compliance with industry standards (PCI DSS, GDPR, SOC), and produces prioritized remediation recommendations.
+
+---
+
+### 📁 Repository Structure
+
+```
+botium-toys-security-audit/
+│
+├── README.md                          ← Detailed and structure project with all the steps to the report
+|
+├── QUICKVIEW.md                       ← You are here
+|
+├── docs/
+|   ├── QUICKVIEW.md                   ← Quick review of the whole project in one page without traveling for quick glance
+│   ├── executive-summary.md           ← High-level findings for leadership
+│   ├── audit-report.md                ← Full internal audit report
+│   └── risk-assessment.md             ← Detailed risk assessment findings
+│
+├── checklists/
+│   ├── controls-assessment.md         ← Security controls checklist
+│   └── compliance-checklist.md        ← PCI DSS, GDPR, SOC compliance
+│
+└── assets/
+    └── asset-inventory.md             ← Full IT asset inventory
+```
+
+---
+
+####  Table of Contents
 
 - [Executive Summary](#executive-summary)
 - [Scope & Goals](#scope--goals)
@@ -27,7 +59,7 @@ Internal security audit and compliance assessment - NIST CSF framework, PCI DSS 
 
 ---
 
-## Executive Summary
+##### Executive Summary
 
 | Field | Details |
 |---|---|
@@ -411,8 +443,6 @@ This project showcases the following cybersecurity concepts and competencies:
 
 *This project was completed as part of the Google Cybersecurity Certificate program. It is intended as a portfolio artifact demonstrating security audit and risk assessment skills. All company and scenario details are fictional and for educational purposes only.*
 
----
-
 <div align="center">
 
 **Connect with me:**
@@ -421,3 +451,6 @@ This project showcases the following cybersecurity concepts and competencies:
 *Junior Cybersecurity Analyst | Google Cybersecurity Certificate Candidate*
 
 </div>
+
+---
+
