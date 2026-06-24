@@ -437,7 +437,7 @@ This project showcases the following cybersecurity concepts and competencies:
 - [GDPR — Official EU Regulation Text](https://gdpr-info.eu/)
 - [NIST SP 800-63B — Digital Identity Guidelines](https://pages.nist.gov/800-63-3/sp800-63b.html)
 - [ISO/IEC 27001 — Information Security Management](https://www.iso.org/isoiec-27001-information-security.html)
-- Google Cybersecurity Certificate — Coursera (Source Audit Documents)
+- [Google Cybersecurity Certificate](https://grow.google/certificates/cybersecurity/)
 
 ---
 
